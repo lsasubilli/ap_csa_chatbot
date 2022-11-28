@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Main">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="8" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1538" height="1415"/>
+    </constraints>
+    <properties>
+      <background color="-7004174"/>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="d9f9a" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-14246158"/>
+          <font name="Avenir" size="20" style="1"/>
+          <foreground color="-864207"/>
+          <text value="ⒸCollegeBot 2022"/>
+        </properties>
+      </component>
+      <component id="859c9" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Kannada MN" size="72" style="1"/>
+          <foreground color="-857768"/>
+          <iconTextGap value="5"/>
+          <text value="Welcome to College Bot!"/>
+        </properties>
+      </component>
+      <component id="8a185" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-9613838"/>
+          <font name="AppleGothic" size="22" style="1"/>
+          <foreground color="-856006"/>
+          <horizontalAlignment value="0"/>
+          <text value="The best place of information for colleges and high school!"/>
+        </properties>
+      </component>
+      <component id="d764f" class="javax.swing.JButton" binding="getStartedButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="2" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <autoscrolls value="true"/>
+          <background color="-860636"/>
+          <doubleBuffered value="true"/>
+          <enabled value="true"/>
+          <focusCycleRoot value="true"/>
+          <focusPainted value="true"/>
+          <focusTraversalPolicyProvider value="true"/>
+          <focusable value="true"/>
+          <font name="HanziPen SC" size="20" style="1"/>
+          <foreground color="-7004174"/>
+          <hideActionText value="true"/>
+          <inheritsPopupMenu value="true"/>
+          <opaque value="true"/>
+          <requestFocusEnabled value="true"/>
+          <rolloverEnabled value="true"/>
+          <selected value="true"/>
+          <text value="Get Started"/>
+        </properties>
+      </component>
+      <component id="34bb" class="javax.swing.JButton" binding="coun">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-856263"/>
+          <font name="HanziPen TC" size="16" style="1"/>
+          <foreground color="-7004174"/>
+          <hideActionText value="false"/>
+          <text value="Counseling Website"/>
+          <verticalAlignment value="1"/>
+          <verticalTextPosition value="3"/>
+        </properties>
+      </component>
+      <component id="d2a9c" class="javax.swing.JButton" binding="talkToACounselorButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1183199"/>
+          <enabled value="true"/>
+          <font name="HanziPen SC" size="16" style="1"/>
+          <foreground color="-7004174"/>
+          <hideActionText value="false"/>
+          <text value="Talk to a Counselor"/>
+        </properties>
+      </component>
+      <component id="d3114" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <enabled value="true"/>
+          <icon value="AV Logo_1604618614.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="d4355" class="javax.swing.JLabel" binding="time">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Apple LiGothic" size="26" style="0"/>
+          <foreground color="-1248750"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

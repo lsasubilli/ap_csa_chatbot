@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="counselors">
+  <grid id="27dc6" binding="stay" layout-manager="GridLayoutManager" row-count="9" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="1356" height="927"/>
+    </constraints>
+    <properties>
+      <background color="-14897934"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="17153" class="javax.swing.JButton" binding="snZButton" default-binding="true">
+        <constraints>
+          <grid row="6" column="0" row-span="2" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-1183180"/>
+          <text value="Sn-Z"/>
+        </properties>
+      </component>
+      <component id="d542c" class="javax.swing.JButton" binding="aChButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-860632"/>
+          <text value="A-Ch"/>
+        </properties>
+      </component>
+      <component id="ad25b" class="javax.swing.JButton" binding="omSmButton" default-binding="true">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-858822"/>
+          <text value="Om-Sm"/>
+        </properties>
+      </component>
+      <component id="9559b" class="javax.swing.JButton" binding="lbOlButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-856226"/>
+          <text value="Lb-Ol"/>
+        </properties>
+      </component>
+      <component id="91d40" class="javax.swing.JButton" binding="hbLaButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-856263"/>
+          <text value="Hb-La"/>
+        </properties>
+      </component>
+      <component id="3970c" class="javax.swing.JButton" binding="cHaButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <background color="-857048"/>
+          <text value="C-Ha"/>
+        </properties>
+      </component>
+      <component id="66764" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="AppleGothic" size="48" style="1"/>
+          <foreground color="-865263"/>
+          <text value="Last Names"/>
+        </properties>
+      </component>
+      <component id="824b8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name=".SF NS Mono" size="36" style="3"/>
+          <foreground color="-986566"/>
+          <icon value="Amador_Valley_High_School_Logo.png"/>
+          <text value="© CollegeBot 2022 "/>
+        </properties>
+      </component>
+      <component id="332b5" class="javax.swing.JButton" binding="homeButton">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Home"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
